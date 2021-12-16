@@ -1,4 +1,15 @@
-### Hi there 👋
+## Marketplace Samples
+* [Managed Application - Deploy to existing VNet](https://github.com/mormond/azure-managedapp-samples/tree/master/Managed%20Application%20Sample%20Packages/301-existing-vnet)
+* [Managed Application - Azure Container Instances](https://github.com/mormond/azure-managedapp-samples/tree/master/Managed%20Application%20Sample%20Packages/301-managed-aci)
+* [Managed Application - Azure Container Apps](https://github.com/mormond/azure-managedapp-samples/tree/master/Managed%20Application%20Sample%20Packages/301-managed-container-apps)
+* [Managed Application - VNet Peering](https://github.com/mormond/azure-managedapp-samples/tree/master/Managed%20Application%20Sample%20Packages/301-managed-vnet-peering)
+* [Managed Application - VM Scale Set](https://github.com/mormond/azure-managedapp-samples/tree/master/Managed%20Application%20Sample%20Packages/301-vmss)
+
+## Marketplace Labs
+* [Transactable Offers](https://www.azurecitadel.com/marketplace/)
+* [Publishing a VM Offer](https://www.azurecitadel.com/marketplace/vmoffer/)
+* [Publishing a Solution Template](https://www.azurecitadel.com/marketplace/azureappst/)
+* [Publishing a Managed Application](https://www.azurecitadel.com/marketplace/azureappma/)
 
 <!--
 **mormond/mormond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
