@@ -4,6 +4,7 @@
 * [Managed Application - Azure Container Apps](https://github.com/mormond/azure-managedapp-samples/tree/master/Managed%20Application%20Sample%20Packages/301-managed-container-apps)
 * [Managed Application - VNet Peering](https://github.com/mormond/azure-managedapp-samples/tree/master/Managed%20Application%20Sample%20Packages/301-managed-vnet-peering)
 * [Managed Application - VM Scale Set](https://github.com/mormond/azure-managedapp-samples/tree/master/Managed%20Application%20Sample%20Packages/301-vmss)
+* [Package an ML solution as a Managed Application](https://github.com/mormond/mlfunc)
 
 ## Marketplace Labs
 * [Transactable Offers](https://www.azurecitadel.com/marketplace/)
