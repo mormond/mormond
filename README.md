@@ -6,6 +6,9 @@
 * [Managed Application - VM Scale Set](https://github.com/mormond/azure-managedapp-samples/tree/master/Managed%20Application%20Sample%20Packages/301-vmss)
 * [Package an ML solution as a Managed Application](https://github.com/mormond/mlfunc)
 
+## Managed Application with Kubernetes
+* [Deploy a Managed App with K8S, pulling secrets from Key Vault and automate the application deployment using notifications](https://github.com/mormond/aks-managed-app-testing)
+
 ## Marketplace Labs
 * [Transactable Offers](https://www.azurecitadel.com/marketplace/)
 * [Publishing a VM Offer](https://www.azurecitadel.com/marketplace/vmoffer/)
