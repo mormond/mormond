@@ -7,7 +7,7 @@
 * [Package an ML solution as a Managed Application](https://github.com/mormond/mlfunc)
 
 ## Managed Application with Kubernetes
-* [Deploy a Managed App with K8S, pulling secrets from Key Vault and automate the application deployment using notifications](https://github.com/mormond/aks-managed-app-testing)
+* [Deploy an K8S Azure managed app, pulling secrets from Key Vault and automate the application deployment using notifications](https://github.com/mormond/aks-managed-app-testing)
 
 ## Marketplace Labs
 * [Transactable Offers](https://www.azurecitadel.com/marketplace/)
