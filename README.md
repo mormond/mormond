@@ -16,6 +16,9 @@
 * [Publishing a Solution Template](https://www.azurecitadel.com/marketplace/azureappst/)
 * [Publishing a Managed Application](https://www.azurecitadel.com/marketplace/azureappma/)
 
+## Other Stuff
+* [Autogenerate WinGet install scripts](https://github.com/mormond/winget-auto-install)
+
 <!--
 **mormond/mormond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
