@@ -5,7 +5,7 @@
 * [Managed Application - VNet Peering](https://github.com/mormond/azure-managedapp-samples/tree/master/Managed%20Application%20Sample%20Packages/301-managed-vnet-peering)
 * [Managed Application - VM Scale Set](https://github.com/mormond/azure-managedapp-samples/tree/master/Managed%20Application%20Sample%20Packages/301-vmss)
 * [Package an ML solution as a Managed Application](https://github.com/mormond/mlfunc)
-* [Simple SaaS Offer Landing Page](https://github.com/mormond/marketplace-saas-landing-page)
+* [Simple SaaS Offer Landing Page](https://github.com/mormond/simple-marketplace-saas-landing-page)
 
 ## Managed Application with Kubernetes
 * [Deploy a K8S Azure managed app, sync secrets from Key Vault and automate the application deployment using notifications](https://github.com/mormond/aks-managed-app-testing)
