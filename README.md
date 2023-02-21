@@ -10,6 +10,7 @@
 * [Deploy a K8S Azure managed app, sync secrets from Key Vault and automate the application deployment using notifications](https://github.com/mormond/aks-managed-app-testing)
 
 ## Marketplace Tools
+* [SaaS Fulfillment APIs Emulator](https://github.com/microsoft/Commercial-Marketplace-SaaS-API-Emulator)
 * [Simple SaaS Offer Landing Page](https://github.com/mormond/simple-marketplace-saas-landing-page)
 * [REST client calls for marketplace SaaS Fullfillment API](https://github.com/mormond/marketplace-rest-client)
 
